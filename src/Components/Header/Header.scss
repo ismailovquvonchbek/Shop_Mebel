@@ -1,0 +1,40 @@
+.header {
+    margin-top: 20px;
+
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+
+.hdr_link {
+    display: flex;
+    align-items: center;
+    gap: 38px;
+}
+
+.nav__list {
+    display: flex;
+    align-items: center;
+    gap: 65px;
+    list-style-type: none;
+    margin-right: -70px;
+}
+
+.nav__link {
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #616364;
+    transition: all 0.3s ease;
+
+    &:hover {
+        color: #000000;
+        text-decoration: underline;
+        text-decoration-thickness: 3px;
+        text-decoration-color: #B69874;
+        text-underline-offset: 9px;
+    }
+}

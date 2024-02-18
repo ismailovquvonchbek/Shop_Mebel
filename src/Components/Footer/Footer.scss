@@ -1,0 +1,106 @@
+.footer {
+    margin-top: 82px;
+    background: #1B3544;
+    position: relative;
+    padding: 33px 20px;
+}
+
+.ftr__list {
+    list-style-type: none;
+    display: flex;
+    margin-left: 20px;
+}
+
+.ftr__img {
+    position: absolute;
+    bottom: 0;
+    width: 359px;
+    height: 332px;
+}
+
+.item2 {
+    margin-left: 400px;
+    width: 358px;
+}
+
+.ftr__heading {
+    font-family: "PT Serif";
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 42px;
+    color: #ffffff;
+    margin-bottom: 17px;
+}
+
+.ftr__text {
+    font-family: "Poppins";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 22px;
+    color: #E5E5E5;
+}
+
+.ftr__span {
+    width: 330px;
+    height: 2px;
+    display: block;
+    background: #FFFFFF21;
+    margin-top: 26px;
+}
+
+.ftr__info {
+    display: flex;
+    align-items: center;
+    gap: 33px;
+}
+
+.ftr__title {
+    font-family: "PT Serif";
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 40px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    span {
+        font-size: 12px;
+    }
+}
+
+.item3 {
+    margin-left: 50px;
+}
+
+.ftr__div {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 63px;
+}
+
+.ftr__icons {
+    width: 116px;
+    height: 36px;
+}
+
+.ftr__line {
+    width: 2px;
+    height: 51px;
+    display: block;
+    background: #FFFFFF75;
+
+}
+
+.ftr__sarlavha {
+    font-family: "Poppins";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #ffffff;
+
+    span {
+        font-size: 10px;
+    }
+}
